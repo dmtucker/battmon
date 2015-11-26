@@ -15,3 +15,6 @@ Use this utility to audibly nag when the battery gets low or critical in OS X.
 4. Specify the critical battery threshold.
 
  ![screenshot of battmon's critical battery field](http://dmtucker.github.io/battmon/screenshots/4-critical.png)
+
+Pro Tip
+> Once the battery is critical, disabling battmon requires plugging in a charger or selecting Force Quit from the Apple menu.
